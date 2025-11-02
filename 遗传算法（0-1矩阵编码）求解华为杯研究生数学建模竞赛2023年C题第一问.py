@@ -152,3 +152,4 @@ model=GA_BIP()
 model.main()
 end_time = time.time()
 print("代码运行时间：", end_time - start_time, "秒")
+
